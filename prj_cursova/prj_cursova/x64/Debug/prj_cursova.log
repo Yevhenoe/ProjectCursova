@@ -1,0 +1,16 @@
+﻿  prj_cursova.cpp
+  restaurant.cpp
+C:\Users\pu5sy\source\repos\prj_cursova\prj_cursova\restaurant.cpp(57,28): warning C4566: character represented by universal-character-name '\u0421' cannot be represented in the current code page (1252)
+C:\Users\pu5sy\source\repos\prj_cursova\prj_cursova\restaurant.cpp(57,28): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+C:\Users\pu5sy\source\repos\prj_cursova\prj_cursova\restaurant.cpp(57,28): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+C:\Users\pu5sy\source\repos\prj_cursova\prj_cursova\restaurant.cpp(57,28): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+C:\Users\pu5sy\source\repos\prj_cursova\prj_cursova\restaurant.cpp(57,28): warning C4566: character represented by universal-character-name '\u0432' cannot be represented in the current code page (1252)
+C:\Users\pu5sy\source\repos\prj_cursova\prj_cursova\restaurant.cpp(57,28): warning C4566: character represented by universal-character-name '\u0443' cannot be represented in the current code page (1252)
+C:\Users\pu5sy\source\repos\prj_cursova\prj_cursova\restaurant.cpp(57,28): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+C:\Users\pu5sy\source\repos\prj_cursova\prj_cursova\restaurant.cpp(57,28): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+C:\Users\pu5sy\source\repos\prj_cursova\prj_cursova\restaurant.cpp(57,28): warning C4566: character represented by universal-character-name '\u0437' cannot be represented in the current code page (1252)
+C:\Users\pu5sy\source\repos\prj_cursova\prj_cursova\restaurant.cpp(57,28): warning C4566: character represented by universal-character-name '\u0439' cannot be represented in the current code page (1252)
+C:\Users\pu5sy\source\repos\prj_cursova\prj_cursova\restaurant.cpp(57,28): warning C4566: character represented by universal-character-name '\u0434' cannot be represented in the current code page (1252)
+C:\Users\pu5sy\source\repos\prj_cursova\prj_cursova\restaurant.cpp(57,28): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+  Generating Code...
+  prj_cursova.vcxproj -> C:\Users\pu5sy\source\repos\prj_cursova\x64\Debug\prj_cursova.exe
